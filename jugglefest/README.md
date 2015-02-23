@@ -47,3 +47,11 @@ Run your program on the input which contains 2000 circuits and 12000 jugglers. T
 ```
 21
 ```
+
+-----------
+
+You can run my solution from the terminal:
+
+```
+ruby ./juggle_fest.rb
+```
